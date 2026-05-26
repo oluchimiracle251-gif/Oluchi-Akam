@@ -1,12 +1,14 @@
-Oluchi-Akam
+
+
 Hi, I'm Oluchi
-Aspiring Quality Assurance Engineer passionate about software testing and digital quality improvement.  
+
+An Aspiring Quality Assurance Engineer passionate about software testing and digital quality improvement.  
 
 Skills: 
 -Manual Testing 
 -Bug Reporting
 -UI Testing 
-- Test Documentation 
+-Test Documentation 
 
 Projects:
 - TeachRight QA Testing  project
